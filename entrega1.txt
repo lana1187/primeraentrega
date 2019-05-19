@@ -1,0 +1,5 @@
+Cedula: 9918
+nombre: Juana
+curso: sociales
+duracion: 24h
+valor: 500000
